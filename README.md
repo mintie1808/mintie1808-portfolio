@@ -28,4 +28,4 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 
 ## Visit my portfolio
-[Portfolio - PeterPhuc (https://peterphuc.github.io)](https://peterphuc.github.io/)
+https://mintie1808.github.io/mintie1808-portfolio/
