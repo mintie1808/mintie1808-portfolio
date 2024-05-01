@@ -13,20 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PeterPhuc
+title: mintie
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 #twitter_username: username
-github_username: PeterPhuc
+github_username: mintie
 minimal_mistakes_skin: default
 search: true
 breadcrumbs: true
-title                    : "PeterPhuc" # "Site Title"
+title                    : "mintie" # "Site Title"
 title_separator          : "-"
-description              : "PeterPhuc's Portfolio"
+description              : "mintie's Portfolio"
 #baseurl                  : "/portfolio"
 
 
@@ -65,22 +65,19 @@ plugins:
   - jekyll-archives
 
 author:
-  name   : "Le Trung Tin"
+  name   : "Nguyen Minh Tien"
   avatar : "/assets/images/picture.jpg"
   bio    : "I am pursing Engineer degree in Software Engineer at Sai Gon University. \n As a passionate individual filled with enthusiasm and determination to excel as a Frontend Developer. Even though I have no practical experience in this field, I possess the passion and willingness to learn and develop the necessary skills and knowledge for success, with a commitment to delivering value and making positive contributions to your work environment"
   links:
     - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: "/assets/images/LeTrungTin_Resume.pdf" 
+      url: "/assets/images/NguyenMinhTien_resume.pdf" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/PeterPhuc"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/peterphuc/"
+      url: "https://github.com/mintie1808"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:trungtin.le1505@gmail.com"
+      url: "mailto:mintie1808@gmail.com"
       
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
@@ -91,18 +88,13 @@ author:
 
 footer:
   links:
-#    - label: "Facebook"
-#      icon: "fas fa-fw fa-facebook"
-#      url: "https://www.facebook.com/vantri911/"
-    - label: "GitHub"
+
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/PeterPhuc"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/peterphuc/"
+      url: "https://github.com/mintie1808"
+
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:trungtin.le1505@gmail.com"
+      url: "mailto:mintie1808@gmail.com"
 
 defaults:
   # _posts
