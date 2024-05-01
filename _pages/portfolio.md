@@ -10,37 +10,38 @@ toc_icon: "bookmark"
 
 ### Projects
 
-### Weather Forecast
+### QuanLyBanLapTop
 
-|**Description project**|  Weather Forecast is a website based on real-time data taken from the third-party API Openweathermap. Users can search by city name, and display descriptions of current weather information including temperature, humidity, and wind direction. |
+|**Description project**|  The "QuanLyBanLapTop" application is a laptop sales management system developed to support the management of business activities related to buying and selling laptops. |
 |---------------------|----------------|
-| **Technologies used** | ReactJS, NodeJS, APIs (OpenWeatherMap), Git, VS Code |
-| **Team size**         |  1 members |
-| **Time start - Time end**         |  Jan. 2024 - Feb. 2024 |
-| **Learning from project** | • Developed frontend web application for update the latest forecast information on weather in cities. <br> • Use Openweathermap’s free API to get weather data <br> • Learned how to use ReactJS in conjunction with backend databases and APIs |
-| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PeterPhuc/Weather-web.git)        |
+| **Technologies used** | MVC, C#, Git, VS Code  |
+| **Team size**         |  4 members |
+| **Time start - Time end**         |  Feb. 2022 - May. 2022 |
+| **Learning from project** | • Using C# WinForms, the application is developed according to the design specifications <br>• MVC separates the application into three distinct components, making it easier to manage and maintain. |
+| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mintie1808/DoAnC-_QuanLyBanLapTop.git)        |
 | **Domain name**              |        Update later        |
 
 
-### Phim Moi
+### Zingmp3
 
-|**Description project**|  Developed a full-stack web application for watch movies online in high quality |
+|**Description project**|  Developed a web application for listen to music online in high quality |
 |---------------------|----------------|
-| **Technologies used** | ReactJs, Zustand, Swiper, API (TMDB), Firebase, Git, VS Code |
-| **Team size**         |  1 members |
-| **Time start - Time end**         |  Sep. 2023 - Jan. 2024|
-| **Learning from project** | • Learned how to use authentication to log in with Google and Facebook using Firebase Authentication <br> • Learned how to use ReactJS, Firebase Authentication |
-| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PeterPhuc/phimmoi-web)        |
+| **Technologies used** | Html, CSS, JS, Git, VS Code |
+| **Team size**         |  2 members |
+| **Time start - Time end**         |  Sep. 2021 - Jan. 2022|
+| **Learning from project** | •With HTML and CSS, you can create a web application accessible from any device . |
+| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tronghk/ZingMp3.git)        |
 | **Domain name**              |        Update later         |
 
 
-### Book Store
+### Shoes Store
 
-|**Description project**|  Developed a full-stack web application for manage stores and sell books  |
+|**Description project**|  Developed a full-stack web application for manage stores and sell Shoes  |
 |---------------------|----------------|
-| **Technologies used** | HTML/CSS, Javascript, SCSS, Less, PHP, Git, VS Code |
-| **Team size**         |  4 members |
-| **Time start - Time end**         |  Dec. 2021 - May. 2022 |
-| **Learning from project** | • Learned how to build a website using basic features of CRUD, search, building responsive interfaces, analyze and design a website management system <br> • Learned how to use github and collaborate in groups |
-| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PeterPhuc/Book-Web2-PTTKHTTT/)        |
+| **Technologies used** | HTML/CSS, Javascript, JSP, Servlet, Hibernate, Git, Eclipse |
+| **Team size**         |  2 members |
+| **Time start - Time end**         |  Oct. 2023 - December. 2023 |
+| **Learning from project** | •Hibernate simplifies the interaction between Java objects and relational databases.<br>•JavaServer Pages (JSP) and Servlets enable the creation of dynamic web pages, allowing for the integration of Java
+code directly into HTML for generating dynamic content. |
+| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/truong0987654321/doan.git)        |
 | **Domain name**              |        Update later         |
